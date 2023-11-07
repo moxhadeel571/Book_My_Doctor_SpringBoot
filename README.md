@@ -63,9 +63,6 @@ Book My Doctor is a web application designed to facilitate seamless interactions
 
 - [Mohammed Shadeel](https://github.com/moxhadeel571)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
